@@ -120,7 +120,7 @@ Tracking results are exported as structured CSV data for further analysis.
 
 ---
 
-## 🖥️ Interactive Dashboard
+## Interactive Dashboard
 
 The project includes a Streamlit dashboard for exploring generated results.
 
@@ -240,15 +240,7 @@ These limitations are treated as part of the experimentation process rather than
 
 ---
 
-## 💡 Key Learning
 
-The project follows an **evidence-first approach**:
-
-> **Detect → Inspect → Track → Analyze → Identify failure cases → Improve**
-
-Rather than assuming a pretrained model will work perfectly on motorsport footage, each stage is tested against real video output and its limitations are documented.
-
----
 
 ## 👩‍💻 Author
 
@@ -257,6 +249,4 @@ BSc (Hons) Computing with Artificial Intelligence
 
 [GitHub](https://github.com/BarshaBhusal)
 
----
 
-**Project Status:** 🚧 Active Development
