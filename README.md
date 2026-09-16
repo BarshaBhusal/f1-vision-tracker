@@ -146,11 +146,11 @@ streamlit run src/app.py
 
 ### Detection
 
-![Detection Example](assets/detection_example.jpg)
+![Detection Example](assets/detection.jpg)
 
 ### Tracking
 
-![Tracking Example](assets/tracking_example.jpg)
+![Tracking Example](assets/tracking.jpg)
 
 ---
 
